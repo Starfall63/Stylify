@@ -7,8 +7,8 @@ To get the stable-diffusion-webgui go here and download: https://github.com/AUTO
 
 To run it run the webgui.bat file (make sure you have python and git installed)
 
-#Example of Chrome Extension
+# Example of Chrome Extension
 ![Extension Example](https://github.com/Starfall63/Stylify/blob/main/extensionDemo.png)
 
-#Example of AI trying the selected clothes on model
+# Example of AI trying the selected clothes on model
 ![Trying on Example](https://github.com/Starfall63/Stylify/blob/main/demoModel.png)
