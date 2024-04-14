@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider Image Extension</title>
+    <script src="popup.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Clueless</h2>
+    <label for="slider1">Bust: <span id="slider1Value">92</span></label>
+    <input type="range" id="slider1" min="78" max="126" value="92">
+    <br>
+    <label for="slider2">Waist: <span id="slider2Value">75</span></label>
+    <input type="range" id="slider2" min="61" max="110" value="75">
+    <br>
+    <label for="slider3">Hips: <span id="slider3Value">100</span></label>
+    <input type="range" id="slider3" min="86" max="133" value="100">
+    <br>
+    <label for="slider4">Height: <span id="slider4Value">165</span></label>
+    <input type="range" id="slider4" min="120" max="200" value="165">
+    <br>
+    <select id="dropdown">
+        <option value="option1">Small</option>
+        <option value="option2">Medium</option>
+        <option value="option3">Large</option>
+    </select>
+    <br>
+    <input type="file" id="imageUpload" accept="image/*">
+    <br>
+    <img id="uploadedImage" src="#" alt="Uploaded Image" style="display:none; max-width: 200px;">
+</body>
+</html>

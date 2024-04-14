@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Slider Image Extension",
+  "version": "1.0",
+  "description": "An extension that allows users to adjust sliders and upload an image.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage", "activeTab"]
+}
