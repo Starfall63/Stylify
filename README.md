@@ -7,6 +7,9 @@ To get the stable-diffusion-webgui go here and download: https://github.com/AUTO
 
 To run it run the webgui.bat file (make sure you have python and git installed)
 
+## Link to Google Slides Presentation with videos!
+[Google Slides Presentation](https://docs.google.com/presentation/d/12-TBtgV6Dddi1pMYw3VEslU7Uu5M1-tBDEMWvJfZ6Zw/edit?usp=sharing)
+
 ## Example of Chrome Extension
 ![Extension Example](https://github.com/Starfall63/Stylify/blob/main/extensionDemo.png)
 
