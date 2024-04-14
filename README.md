@@ -1,4 +1,4 @@
-# Stylelify
+# Stylify
 AI clothes trying on built at Bath Hack 2024
 
 You must be running stable-diffusion-webgui in the background for this to work
