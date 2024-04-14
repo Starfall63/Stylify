@@ -9,4 +9,4 @@ To run it run the webgui.bat file (make sure you have python and git installed)
 
 ![Extension Example](https://github.com/Starfall63/Stylify/blob/main/extensionDemo.png)
 
-![Trying on Example]()
+![Trying on Example](https://github.com/Starfall63/Stylify/blob/main/demoModel.png)
